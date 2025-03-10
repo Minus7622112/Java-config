@@ -1,5 +1,7 @@
 package revature.pro0.config;
 
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Scope;
 import revature.pro0.models.Animal;
 
 import java.util.ArrayList;
